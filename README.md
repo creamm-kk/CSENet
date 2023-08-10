@@ -1,5 +1,5 @@
 # SAE
-The whole code for Shrink and Expose: Locate Edge Coarse-to-Fine for Camouflaged Object Detection. We will publish it when our paper is accepted. You can download our saliency map now.
+The whole code for Shrink and Expose: Locate Edge Coarse-to-Fine for Camouflaged Object Detection. We will publish it when our paper is accepted. You can download our [result](https://drive.google.com/file/d/1WbejsjKwIc_2ZyTdt9DkFeve6TAMGere/view?usp=drive_link) now.
 
 original
 ![original](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/original.jpg)
