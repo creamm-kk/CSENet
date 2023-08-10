@@ -3,7 +3,7 @@ The whole code for Shrink and Expose: Locate Edge Coarse-to-Fine for Camouflaged
 
 ![original](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/original.jpg)
 ![with out ES-CRF](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woES-CRF.jpg)
-![with out E-CA](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woE-CA.jpg)
+![with out E-CA](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woE-CA.png)
 ![with out E-SA](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woE-SA.jpg)
 ![with out E-SA](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woE-SA,E-CA.jpg)
 ![with out Lest](https://github.com/creamm-kk/SAE/blob/main/Screenshot%20of%20the%20experimental%20results/woLest.jpg)
